@@ -1,6 +1,8 @@
 # node模拟后端接口
 ## 项目运行
 ```text
+git clone https://github.com/smalllhui/server-test.git
+cd server-test #进入目录
 npm install #安装依赖
 
 npm run dev #启动项目
